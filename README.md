@@ -9,7 +9,9 @@ Currently, two official plugins are available:
 
 
 
+--------------------------------------------------------------------------------------------------------------------------------------
 
+##About the Project
 
 
 #Random Quote Generator v1.0
