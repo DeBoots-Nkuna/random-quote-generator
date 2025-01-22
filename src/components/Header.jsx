@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <>
       <div className="container">
-        <h1 className="title">Random Quote Generator</h1>
+        <h1 className="title">RANDOM QUOTE GENERATOR</h1>
       </div>
     </>
   );

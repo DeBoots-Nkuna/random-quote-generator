@@ -1,12 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap');
+
 div.container {
-  background-color: aqua;
+  /* background color for container */
+  background-color: black;
   width: 50%;
   margin: auto;
   text-align: center;
   padding: 10px;
 
+  /* positioning of container */
   position: absolute;
-  top: 25%;
+  top: 10%;
   left: 25%;
   transform: translateX(0);
+
+  /* border around container */
+  border: 2px solid white;
+  border-radius: 1rem;
+}
+
+/* main title */
+div h1 {
+  font-family: 'Nabla', serif;
+  font-weight: 900;
+  letter-spacing: 0.2em;
 }

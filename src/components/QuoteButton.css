@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap');
+
+button.quote-btn {
+  background-color: black;
+  font-family: 'Nabla', serif;
+  padding: 16px;
+  font-size: 20px;
+  border: 2px solid white;
+  border-radius: 1em;
+  position: absolute;
+  top: 65%;
+  left: 25%;
+  transform: translateX(0);
+  text-align: center;
+  cursor: pointer;
+}
+
+button.quote-btn:hover {
+  background-color: rgba(128, 128, 128, 0.432);
+}

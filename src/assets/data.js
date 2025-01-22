@@ -1,7 +1,8 @@
+/* eslint-disable no-unused-vars */
 //sample data of quotes collected in goodreads.com
 //https://goodreads.com/quotes
 
-const QUOTES = [
+export const QUOTES = [
   {
     author: '― Oscar Wilde',
     quote: 'Be yourself; everyone else is already taken',
