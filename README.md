@@ -11,10 +11,10 @@ Currently, two official plugins are available:
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
-## About the Project
+# About the Project
 
 
-# Random Quote Generator v1.0
+## Random Quote Generator v1.0
 - mimi app that generates quotes using static data.
-#purpose
+## purpose
 -practicing using React hooks - usestate 
